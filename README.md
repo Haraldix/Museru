@@ -1,0 +1,2 @@
+# Museru
+Automatic melodic generator
