@@ -1,1 +1,1 @@
-Test push 
+git clone https://github.com/Haraldix/Museru.git
